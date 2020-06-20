@@ -1,5 +1,7 @@
 # ETL
 
+The notebook with the whole project is "ETL Project"
+
 Extract:
 We extracted information from two supermarket: Chedraui and Soriana. We did this by scraping the data from the fruits department 
 and obtaining the products and prices. 
